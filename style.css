@@ -11,17 +11,22 @@
 	margin: 4rem 0;
 }
 
+body{font-family: system-ui;}
+*{font-weight: 300;}
+h1{text-align: center;}
+
+
 .card {
 display: flex;
 align-items: center;
 justify-content: center;
-background-color: rgb(115, 194, 234);
+background-color: rgb(36, 102, 173);
 border-radius: 0.5rem;
 padding: 2.5rem 1.5rem;
 font-size: 1.8rem;
-font-weight: 600;
+/* font-weight: 600; */
 text-decoration: none;
-color: rgb(235, 241, 241);
+color: rgb(0, 0, 0);
 }
 .menu {
 display: flex;
